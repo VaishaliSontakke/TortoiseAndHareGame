@@ -4,10 +4,10 @@
 
 Problem to implement a game between tortoise and hare.
 
-Imagine both animals at a tree and they want to reach a pond, which is 10 steps away from the tree. both animals start at same time. tortoise keep 1 step for 1 sec, while keeps 2 steps for 1sec. Now there is a random time [1-3]sec, a carrot will appear in hares path, In this case hare stops for 1 sec and then continue. Now design a game. Simple right í ½í¸Š
+Imagine both animals at a tree and they want to reach a pond, which is 10 steps away from the tree. both animals start at same time. tortoise keep 1 step for 1 sec, while keeps 2 steps for 1sec. Now there is a random time [1-3]sec, a carrot will appear in hares path, In this case hare stops for 1 sec and then continue. Now design a game. Simple right
 
 how to code: 
-Use strategy design pattern [learn it its easy]
+Use strategy design pattern 
 make animal class and inherit tortoise and hare class 
 have variable and count number of steps done or number of steps remaing
 generate a random number and pass to hare object.
